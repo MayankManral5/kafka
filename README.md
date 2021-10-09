@@ -9,4 +9,4 @@
 - 'domain-service' - uses Spring Cloud Stream with Kafka Streams binder
 
 ## Architecture
-![architecture](architecture.png)
+![architecture](architecture.png)# kafka
